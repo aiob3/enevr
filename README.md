@@ -1,4 +1,5 @@
-# @ai-coders/context
+# Enhance: @aiob3 | http://indygolab.com
+### Source: @ai-coders/context
 
 [![npm version](https://badge.fury.io/js/@ai-coders%2Fcontext.svg)](https://www.npmjs.com/package/@ai-coders/context)
 [![CI](https://github.com/vinilana/ai-coders-context/actions/workflows/ci.yml/badge.svg)](https://github.com/vinilana/ai-coders-context/actions/workflows/ci.yml)
